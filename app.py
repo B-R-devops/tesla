@@ -2,4 +2,6 @@
 print"blendine"
 echo blendine
 devops is good
-i
+deploy in the dev branch
+deploy in python
+
